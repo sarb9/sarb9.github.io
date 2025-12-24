@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Alireza Bakhtiari"
   avatar: "profile.jpg"
-  bio: "MSc Student in Computing Science, University of Alberta"
-  location: "Edmonton, Alberta, Canada"
+  bio: "Ph.D. Student in Computer Science, University of Washington"
+  location: "Seattle, WA, USA"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=RqWBIiYAAAAJ&hl=en"
-  email:
+  email: "alirezaa@cs.washington.ca"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:

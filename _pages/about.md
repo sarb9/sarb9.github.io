@@ -13,8 +13,6 @@ I am a Ph.D. student in Computer Science at the University of Washington, advise
 Previously, I completed my M.Sc. at the University of Alberta under the supervision of [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/).
 My main research interests lie in sequential decision making.
 
-You can contact me via alirezaa AT cs DOT washington DOT edu.
-
 Publications
 ======
 ---
